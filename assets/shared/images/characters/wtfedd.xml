@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wtfedd.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wtfedd down instancia 10000" x="1" y="1" width="442" height="602" frameX="0" frameY="-13" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10001" x="1" y="1" width="442" height="602" frameX="0" frameY="-13" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10002" x="1" y="1" width="442" height="602" frameX="0" frameY="-13" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10003" x="444" y="1" width="452" height="588" frameX="0" frameY="-13" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10004" x="444" y="1" width="452" height="588" frameX="0" frameY="-13" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10005" x="444" y="1" width="452" height="588" frameX="0" frameY="-13" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10006" x="444" y="1" width="452" height="588" frameX="0" frameY="-13" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10007" x="897" y="1" width="461" height="581" frameX="0" frameY="0" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10008" x="897" y="1" width="461" height="581" frameX="0" frameY="0" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10009" x="897" y="1" width="461" height="581" frameX="0" frameY="0" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10010" x="897" y="1" width="461" height="581" frameX="0" frameY="0" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10011" x="897" y="1" width="461" height="581" frameX="0" frameY="0" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10012" x="897" y="1" width="461" height="581" frameX="0" frameY="0" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd down instancia 10013" x="897" y="1" width="461" height="581" frameX="0" frameY="0" frameWidth="461" frameHeight="615"/>
+	<SubTexture name="wtfedd idle instancia 10000" x="1359" y="1" width="317" height="580" frameX="0" frameY="-16" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10001" x="1359" y="1" width="317" height="580" frameX="0" frameY="-16" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10002" x="1359" y="1" width="317" height="580" frameX="0" frameY="-16" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10003" x="1677" y="1" width="310" height="580" frameX="0" frameY="-7" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10004" x="1677" y="1" width="310" height="580" frameX="0" frameY="-7" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10005" x="1677" y="1" width="310" height="580" frameX="0" frameY="-7" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10006" x="1677" y="1" width="310" height="580" frameX="0" frameY="-7" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10007" x="1" y="604" width="310" height="581" frameX="0" frameY="0" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10008" x="1" y="604" width="310" height="581" frameX="0" frameY="0" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10009" x="1" y="604" width="310" height="581" frameX="0" frameY="0" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10010" x="1" y="604" width="310" height="581" frameX="0" frameY="0" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10011" x="1" y="604" width="310" height="581" frameX="0" frameY="0" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10012" x="1" y="604" width="310" height="581" frameX="0" frameY="0" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd idle instancia 10013" x="1" y="604" width="310" height="581" frameX="0" frameY="0" frameWidth="317" frameHeight="596"/>
+	<SubTexture name="wtfedd left instancia 10000" x="312" y="604" width="368" height="585" frameX="0" frameY="-10" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10001" x="312" y="604" width="368" height="585" frameX="0" frameY="-10" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10002" x="312" y="604" width="368" height="585" frameX="0" frameY="-10" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10003" x="681" y="604" width="398" height="587" frameX="-19" frameY="-5" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10004" x="681" y="604" width="398" height="587" frameX="-19" frameY="-5" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10005" x="681" y="604" width="398" height="587" frameX="-19" frameY="-5" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10006" x="681" y="604" width="398" height="587" frameX="-19" frameY="-5" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10007" x="1080" y="604" width="422" height="589" frameX="-35" frameY="0" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10008" x="1080" y="604" width="422" height="589" frameX="-35" frameY="0" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10009" x="1080" y="604" width="422" height="589" frameX="-35" frameY="0" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10010" x="1080" y="604" width="422" height="589" frameX="-35" frameY="0" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10011" x="1080" y="604" width="422" height="589" frameX="-35" frameY="0" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10012" x="1080" y="604" width="422" height="589" frameX="-35" frameY="0" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd left instancia 10013" x="1080" y="604" width="422" height="589" frameX="-35" frameY="0" frameWidth="457" frameHeight="595"/>
+	<SubTexture name="wtfedd right instancia 10000" x="1" y="1194" width="657" height="588"/>
+	<SubTexture name="wtfedd right instancia 10001" x="1" y="1194" width="657" height="588"/>
+	<SubTexture name="wtfedd right instancia 10002" x="1" y="1194" width="657" height="588"/>
+	<SubTexture name="wtfedd right instancia 10003" x="659" y="1194" width="620" height="581" frameX="-16" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10004" x="659" y="1194" width="620" height="581" frameX="-16" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10005" x="659" y="1194" width="620" height="581" frameX="-16" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10006" x="659" y="1194" width="620" height="581" frameX="-16" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10007" x="1280" y="1194" width="574" height="570" frameX="-36" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10008" x="1280" y="1194" width="574" height="570" frameX="-36" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10009" x="1280" y="1194" width="574" height="570" frameX="-36" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10010" x="1280" y="1194" width="574" height="570" frameX="-36" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10011" x="1280" y="1194" width="574" height="570" frameX="-36" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10012" x="1280" y="1194" width="574" height="570" frameX="-36" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd right instancia 10013" x="1280" y="1194" width="574" height="570" frameX="-36" frameY="0" frameWidth="657" frameHeight="588"/>
+	<SubTexture name="wtfedd up instancia 10000" x="1" y="1783" width="309" height="619" frameX="-18" frameY="0" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10001" x="1" y="1783" width="309" height="619" frameX="-18" frameY="0" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10002" x="1" y="1783" width="309" height="619" frameX="-18" frameY="0" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10003" x="311" y="1783" width="342" height="619" frameX="-12" frameY="0" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10004" x="311" y="1783" width="342" height="619" frameX="-12" frameY="0" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10005" x="311" y="1783" width="342" height="619" frameX="-12" frameY="0" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10006" x="311" y="1783" width="342" height="619" frameX="-12" frameY="0" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10007" x="654" y="1783" width="384" height="603" frameX="0" frameY="-16" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10008" x="654" y="1783" width="384" height="603" frameX="0" frameY="-16" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10009" x="654" y="1783" width="384" height="603" frameX="0" frameY="-16" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10010" x="654" y="1783" width="384" height="603" frameX="0" frameY="-16" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10011" x="654" y="1783" width="384" height="603" frameX="0" frameY="-16" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10012" x="654" y="1783" width="384" height="603" frameX="0" frameY="-16" frameWidth="384" frameHeight="619"/>
+	<SubTexture name="wtfedd up instancia 10013" x="654" y="1783" width="384" height="603" frameX="0" frameY="-16" frameWidth="384" frameHeight="619"/>
+</TextureAtlas>
