@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "wtfedd idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "wtfedd left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "wtfedd right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "wtfedd down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				50
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "wtfedd up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/wtfedd",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "wtfedd",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		101,
+		40
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

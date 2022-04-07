@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "rain"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rain",
+	"position": [
+		-150,
+		-400
+	],
+	"healthicon": "rain",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		161,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

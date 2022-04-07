@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "edd idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "edd left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "edd right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "edd down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				5
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "edd up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "edd miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "edd miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "edd miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "edd miss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/edd",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "edd",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		135,
+		40
+	],
+	"camera_position": [
+		150,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
